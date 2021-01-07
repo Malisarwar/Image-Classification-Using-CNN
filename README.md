@@ -18,6 +18,8 @@ end system at a very low learning rate.That was necessary to do the�
 In this code, I have done test of transfer learning. After reading Test data I have finding out Stochastic Gradient Decent with learning rate, apply ResNet with transfer learning to classification the image dataset.
 
 ## DataSet
-While uploading data, i am facing issues. Later on I'll upload data
+While uploading data, i am facing issues. Later on I'll upload data.
+Right now, below is the link of dataset from kaggale which is used in this work:
+https://www.kaggle.com/puneet6060/intel-image-classification/download
 
 
